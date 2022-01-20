@@ -1,0 +1,6 @@
+ec\com\bano\services\PersonaServiceImpl.class
+ec\com\bano\domain\Persona.class
+ec\com\bano\web\ControladorInicio.class
+ec\com\bano\HolaSpringApplication.class
+ec\com\bano\dao\IPersonaDao.class
+ec\com\bano\services\PersonaService.class
